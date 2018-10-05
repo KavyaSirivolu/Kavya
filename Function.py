@@ -17,5 +17,5 @@ c=exp(2,5)
 
 def div(a,b):
 	return (a/b)
-c=div(20,5)
+c=div(30,5)
 
